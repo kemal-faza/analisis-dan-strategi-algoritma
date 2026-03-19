@@ -20,7 +20,6 @@ def max2(n1, n2):
 def hitungPoint(currentPoint, index):
     global maxPoint
     if index == n:
-        # print(currentPoint)
         return currentPoint
 
     temp1 = (
